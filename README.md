@@ -1,12 +1,12 @@
 # Welcome to DavidDaDev GitHub Page
 
-One of my early-days project.
+This project is a color picker with a small grid.
 
 Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
 ## Launch
 
-To see the project live tap [here](https://daviddadev.github.io/js-functional-programming/index.html), and thanks for visiting my GitHub. Enjoy.
+To see the project live tap [here](https://daviddadev.github.io/color-picker-small-grid/index.html), and thanks for visiting my GitHub. Enjoy.
 
 - David
 
